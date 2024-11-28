@@ -73,5 +73,5 @@ To access YouTube data, follow these steps:
 ## How to Run the Project
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/your-repo/YouTube-Trending-Analysis.git
+   git clone https://github.com/mrrahulray/YouTube-Trending-Analysis.git
    cd YouTube-Trending-Analysis
